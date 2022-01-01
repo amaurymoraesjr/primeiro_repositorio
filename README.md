@@ -1,2 +1,2 @@
 # primeiro_repositorio
-Criação do primeiro repositorio em git/github - Eercício DIO
+Criação do primeiro repositório em git/github - Exercício DIO
